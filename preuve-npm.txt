@@ -1,0 +1,6 @@
+Client : kokobo
+Portion 1 : Riz-poulet - 2000 FCFA
+Portion 2 : Riz-poulet - 2000 FCFA
+Total à payer : 4000 FCFA
+Montant versé : 3000 FCFA
+Montant manquant : 1000 FCFA
